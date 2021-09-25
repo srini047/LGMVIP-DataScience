@@ -50,35 +50,21 @@
         <li>Splitting Training and Testing Dataset - Used a 75% [train - 112 rows] and 25% [test - 38 rows] Split.</li>
         <li>Using Different Approaches</li>
 
-> Logistic Regression -  Predicts dependency by analyzing the relationship between one or more existing independent variables.
-
-> K-Nearest Neighbours - A simple, supervised ML Algorithm that solves both Classification and Regression Problems
-<ol>
-    <li>Classification Report</li>
-    <li>Confusion Matrix - Build a text report highlighting the main Classification Metrics</li>
-
-**Displays: F1-Score, Recall, Precision, and Support as well as other Relevant Details.**
-</ol>
-
-> Decision Tree - Tree based Model based on Statistical and Probability Analysis.
+> Decision Tree - Tree based Model focussed on Statistical and Probability Analysis.
 <ol>
     <li>Tree Features - Details about the tree developed to produce the most optimal results.</li>
     <li>Tree Visualisation - Pictorial view of the developed Decision Tree Model.</li>
 </ol>
     </ul>
+    
+   ![tree-visual](https://user-images.githubusercontent.com/81156510/134769794-c791f6ed-0c12-4e41-a1a3-c0bfa4cb378c.png)
+   <hr>
+
 <h2>Conclusion - Interpreting the derived Results.</h2>
 <table>
     <tr>
         <th><u>Model Name</u></th>
         <th><u>Accuracy Score</u></th>
-    </tr>
-    <tr>
-        <th>Logistic Regression</th>
-        <th>97.36842105263158</th>
-    </tr>
-    <tr>
-        <th>K-Nearest Neighbours</th>
-        <th>97.36842105263158</th>
     </tr>
     <tr>
         <th>Decision Tree</th>
@@ -89,8 +75,6 @@
 <br>
 <hr>
 
-> **Note - 1:** *Results may vary if random state or hyperparameter or some other changes occur.*
+> **Note:** *Results may vary if random state or hyperparameter or some other changes occur.*
 
-> **Note  - 2:** *Logistic Regreesion and KNN Model Perform with the same Accuracy.*
-
-```Preffered: Decision Tree Classifier (Accuracy: 98.18%)```
+```Decision Tree Classifier (Accuracy: 98.18%)```
