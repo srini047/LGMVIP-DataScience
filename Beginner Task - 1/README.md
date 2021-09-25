@@ -44,6 +44,17 @@
         <li>Scatter Plot (Facet Grid) - Plot between Sepal Length and Petal Length for different Species.</li>
         <li>Pair Plot (similar to Subplot) - Plots graph between various Numerical Attributes in the Dataset.</li>
     </ul>
+    <hr>    
+   
+   ![plot-1](https://user-images.githubusercontent.com/81156510/134769591-8216ee33-e5d9-4d99-85f7-907438c7bd65.png)
+   <hr>
+   
+   ![plot-2](https://user-images.githubusercontent.com/81156510/134769667-8d06c4b8-3e91-44e9-9fa9-94b0c73c75ce.png)
+   <hr>
+   
+   ![plot-3](https://user-images.githubusercontent.com/81156510/134769671-fbc1e845-4dfe-4614-8a85-9b1f5463b5ab.png)
+
+
 <h2>Model Building - Important Step in entire Life Cycle.</h2>
     <ul>
         <li>Fixing Independent and Dependent Variables</li>
