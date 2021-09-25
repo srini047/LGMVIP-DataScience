@@ -71,12 +71,16 @@
 **Displays: F1-Score, Recall, Precision, and Support as well as other Relevant Details.**
 </ol>
 
-> Decision Tree - Tree based Model based on Statistical and Probability Analysis.
+> Decision Tree - Tree based Model focussed on Statistical and Probability Analysis.
 <ol>
     <li>Tree Features - Details about the tree developed to produce the most optimal results.</li>
     <li>Tree Visualisation - Pictorial view of the developed Decision Tree Model.</li>
 </ol>
     </ul>
+    
+   ![tree-visual](https://user-images.githubusercontent.com/81156510/134769828-a20f4e81-ed80-44bb-8aa1-5d625f22de5a.png)
+   <hr>
+    
 <h2>Conclusion - Interpreting the derived Results.</h2>
 <table>
     <tr>
